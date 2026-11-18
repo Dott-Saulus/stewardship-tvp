@@ -1,6 +1,6 @@
 // Service worker: rende la pagina utilizzabile anche senza connessione.
 // Per pubblicare una nuova versione cambia il numero in CACHE (es. v1.1).
-const CACHE = 'stewardship-tev-v1.4';
+const CACHE = 'stewardship-tev-v1.5';
 const ASSETS = [
   "./",
   "index.html",
